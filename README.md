@@ -33,11 +33,20 @@ No personal data is associated with submissions.
 
 ## 4. Open-Source Datasets
 
-Waxal 2.0 uses publicly available datasets for educational purposes, including:
-- Anta TTS
-- Wolof TTS (GalsenAI)
+Waxal 2.0 uses publicly available open-source datasets for educational purposes. These include:
 
-All datasets remain under their respective licenses.
+- **Anta Women TTS dataset**  
+  Source: https://huggingface.co/datasets/galsenai/anta_women_tts  
+  License: Creative Commons Attribution 4.0 (CC-BY 4.0)  
+  License link: https://huggingface.co/datasets/galsenai/anta_women_tss/blob/main/LICENSE
+
+- **Wolof TTS dataset**  
+  Source: https://huggingface.co/datasets/galsenai/wolof_tts  
+  License: Creative Commons Attribution 4.0 (CC-BY 4.0)  
+  License link: https://huggingface.co/datasets/galsenai/wolof_tts/blob/main/LICENSE
+
+These datasets are used under their respective open-source licenses and remain the property of their contributors.
+
 
 ## 5. Children’s Privacy
 
