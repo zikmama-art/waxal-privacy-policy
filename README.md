@@ -60,3 +60,9 @@ This policy may be updated. Updates will be reflected on this page.
 
 For questions, contact:
 [zikmama@gmail.com]
+
+## 8. Updates to this Privacy Policy
+
+We may update this Privacy Policy from time to time. If we do,
+we will revise the “Effective date” at the top. You are encouraged
+to review this page periodically.
