@@ -50,4 +50,4 @@ This policy may be updated. Updates will be reflected on this page.
 ## 7. Contact
 
 For questions, contact:
-[ton email ici]
+[zikmama@gmail.com]
